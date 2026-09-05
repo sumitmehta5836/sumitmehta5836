@@ -47,20 +47,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sumitmehta5836&theme=tokyonight&row=1&column=6&margin-w=8" />
+  <img src="https://raw.githubusercontent.com/sumitmehta5836/sumitmehta5836/output/github-contribution-grid-snake.svg?v=1" width="90%" />
 </p>
-
-<details>
-<summary>🐍 Bonus: Contribution Snake (needs a 2-minute one-time setup)</summary>
-<br>
-
-Add this workflow at `.github/workflows/snake.yml` in this repo, following the guide at [Platane/snk](https://github.com/Platane/snk), then embed:
-
-```markdown
-![snake](https://raw.githubusercontent.com/sumitmehta5836/sumitmehta5836/output/github-contribution-grid-snake.svg)
-```
-
-</details>
 
 <br>
 
