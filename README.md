@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:565f89,100:7aa2f7&height=200&section=header&text=Sumit%20Mehta&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20CSE%20Student&descAlignY=55&descSize=18" width="100%"/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Turning+coffee+into+code%2C+one+bug+at+a+time.;Learning+today%2C+building+tomorrow.;Consistency+%3E+intensity+%E2%80%94+one+commit+at+a+time.;Currently+compiling%3A+knowledge.exe)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Turning+coffee+into+code%2C+one+bug+at+a+time.;Learning+today%2C+building+tomorrow.;Currently+compiling%3A+knowledge.exe)
 
 </div>
 
@@ -34,7 +34,7 @@
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,py,qt,git)
+![Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,py,git)
 
 </div>
 
