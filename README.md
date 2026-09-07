@@ -34,7 +34,7 @@
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,py,git)
+![Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,py,git,vscode)
 
 </div>
 
