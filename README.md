@@ -40,17 +40,6 @@
 
 <br>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sumitmehta5836&hide_border=true&background=00000000&border=0&ring=7aa2f7&fire=bb9af7&currStreakLabel=c0caf5&sideNums=c0caf5&sideLabels=787c99&dates=787c99&currStreakNum=ffffff" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sumitmehta5836/sumitmehta5836/output/github-contribution-grid-snake.svg?v=1" width="90%" />
-</p>
-
-<br>
 
 ## 📫 Connect With Me
 
