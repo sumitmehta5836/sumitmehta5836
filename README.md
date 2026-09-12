@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:565f89,100:7aa2f7&height=200&section=header&text=Sumit%20Mehta&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20CSE%20Student&descAlignY=55&descSize=18" width="100%"/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=700&lines=Hello+World!;Namaste+Duniya;Annyeonghaseyo,+Segye;Ni+Hao,+Shijie;Konnichiwa,+Sekai;Hallo+Welt)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=700&lines=Hello+World!;नमस्ते+दुनिया;Annyeonghaseyo,+Segye;Ni+Hao,+Shijie;Konnichiwa,+Sekai;Hallo+Welt)
 
 </div>
 
