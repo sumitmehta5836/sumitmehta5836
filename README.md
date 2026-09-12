@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./orbit-loader-intro.svg" width="100%"/>
+<img src="./animation.gif" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:565f89,100:7aa2f7&height=200&section=header&text=Sumit%20Mehta&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20CSE%20Student&descAlignY=55&descSize=18" width="100%"/>
 
