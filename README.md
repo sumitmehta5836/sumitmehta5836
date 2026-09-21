@@ -44,7 +44,7 @@
 
 **Tools**
 
-![Tools](https://skillicons.dev/icons?i=git,github,pycharm,docker,phpstorm,idea,vscode)
+![Tools](https://skillicons.dev/icons?i=git,github,pycharm,phpstorm,idea,docker,vscode)
 
 </div>
 
