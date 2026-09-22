@@ -36,15 +36,15 @@
 
 **Languages**
 
-![Languages](https://skillicons.dev/icons?i=html,css,js,ts,cpp,c,py)
+![Languages](https://skillicons.dev/icons?i=html,css,js,cpp,c,py)
 
 **Frameworks & Databases**
 
-![Frameworks and Databases](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,sqlite,mysql)
+![Frameworks and Databases](https://skillicons.dev/icons?i=react,nodejs,express,mongodb,sqlite)
 
 **Tools**
 
-![Tools](https://skillicons.dev/icons?i=git,github,pycharm,phpstorm,idea,docker,vscode)
+![Tools](https://skillicons.dev/icons?i=git,github,pycharm,phpstorm,idea,vscode)
 
 </div>
 
