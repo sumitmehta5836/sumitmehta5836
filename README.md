@@ -21,12 +21,11 @@
  
 <br>
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About
 
-- B.Tech CSE student at **Graphic Era Hill University, Bhimtal Campus** (2025–2029)
-- Currently learning **Full Stack Development** and **Data Structures & Algorithms**
-- Sharpening problem-solving on LeetCode
-- Always open to collaborating on interesting projects
+- B.Tech CSE student at **Graphic Era Hill University**
+- Passionate about technology, creative problem-solving, and building impactful projects.
+- Open to collaborating on interesting projects
 
 <br>
 
@@ -44,7 +43,7 @@
 
 **Tools**
 
-![Tools](https://skillicons.dev/icons?i=git,github,pycharm,phpstorm,idea,vscode,docker)
+![Tools](https://skillicons.dev/icons?i=git,github,pycharm,phpstorm,vscode)
 
 </div>
 
